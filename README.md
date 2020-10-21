@@ -45,12 +45,11 @@ For creating the first tidy data, The first thing done was to get the mean and
 standard deviation of the observations for the test set and training set. After
 obtaining the values, the names of the columns were changed then the two sets
 were combined then the values for the activities were changed according to the 
-activity labels creating the first tidy data (see "Data.csv"").
+activity labels creating the first tidy data.
 
 For creating the second tidy data which is getting the mean of the tidy data set
 with the average of each variable for each activity and each subject, from the 
 first generated data, the test set and training set were group by their 
 respective sample and activity and from that, their means were computed. After 
-it, the two sets were combined again creating the grouped tidy data 
-(see "Data_group.csv"").
+it, the two sets were combined again creating the grouped tidy data.
 
