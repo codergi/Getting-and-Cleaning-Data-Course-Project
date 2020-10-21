@@ -1,6 +1,6 @@
-"Human Activity Recognition Using Smartphones"
+#Human Activity Recognition Using Smartphones
 
-"Data.csv"
+##Data.csv"
 
 Test.Sample
         The sample number for the participants of the test set
@@ -21,7 +21,7 @@ Test.Activity
         Standing
         Laying
         
-"Data_group.csv"
+##Data_group.csv"
 
 Test.Sample
         The sample number for the participants of the test set
