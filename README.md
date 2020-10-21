@@ -1,6 +1,6 @@
-#Human Activity Recognition Using Smartphones Dataset
+Human Activity Recognition Using Smartphones Dataset
 
-**The experiments have been carried out with a group of 30 volunteers within an 
+The experiments have been carried out with a group of 30 volunteers within an 
 age bracket of 19-48 years. Each person performed six activities (WALKING, 
 WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a 
 smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer 
@@ -17,7 +17,7 @@ gravitational and body motion components, was separated using a Butterworth
 low-pass filter into body acceleration and gravity. The gravitational force is 
 assumed to have only low frequency components, therefore a filter with 0.3 Hz 
 cutoff frequency was used. From each window, a vector of features was obtained 
-by calculating variables from the time and frequency domain.**
+by calculating variables from the time and frequency domain.
 
 For each record it is provided:
 - Triaxial acceleration from the accelerometer (total acceleration) and the 
