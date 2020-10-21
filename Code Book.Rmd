@@ -1,0 +1,40 @@
+"Human Activity Recognition Using Smartphones"
+
+"Data.csv"
+
+Test.Sample
+        The sample number for the participants of the test set
+                1 - 30 .Every participant has their own assigned number
+
+Test.Mean  
+        The mean for every observation of the participant  
+
+Test.Standard.Deviation  
+        The standard deviation for every observation of the participant  
+        
+Test.Activity  
+        The activity that the participant is doing during the observation
+        Walking
+        Walking Upstairs
+        Walking Downstairs
+        Sitting
+        Standing
+        Laying
+        
+"Data_group.csv"
+
+Test.Sample
+        The sample number for the participants of the test set
+                1 - 30 .Every participant has their own assigned number
+
+Test.Mean  
+        The mean for every observation of the participant  
+
+Test.Activity  
+        The activity that the participant is doing during the observation
+        Walking
+        Walking Upstairs
+        Walking Downstairs
+        Sitting
+        Standing
+        Laying
